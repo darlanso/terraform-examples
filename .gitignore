@@ -1,1 +1,8 @@
 darlanso.sh
+.terraform/
+*.backup
+*.hcl
+*.tfvars
+*.tfstate
+*.out
+*.info
